@@ -1,1 +1,3 @@
-# [Spin! Spin!](https://arkark.github.io/Spin_Spin_/) - A 3D action game
+# Spin! Spin!
+
+A 3D action game. -> [play](https://arkark.github.io/Spin_Spin_/)
