@@ -2,7 +2,7 @@
 
 東京工業大学2015工大祭で、ロボット技術研究会 CG-SQUAREとして展示したゲームです。
 
-<img src="images/ss1.png" width="320px"> <img src="images/ss2.png" width="320px">
+<img src="images/SS1.png" width="320px"> <img src="images/SS2.png" width="320px">
 
 ※画像は開発中のものです。
 
